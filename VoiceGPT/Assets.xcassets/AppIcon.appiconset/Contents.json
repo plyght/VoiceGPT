@@ -1,0 +1,74 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2023-12-30 10.31.19 - A sleek and minimalistic logo for an AI voice assistant, incorporating the concept of an AI brain. The design should be modern with a touch of color,  1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "filename" : "DALL·E 2023-12-30 10-6.31.19 - A sleek and minimalistic logo for an AI voice assistant, incorporating the concept of an AI brain. The design should be modern with a touch of color, .png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "16x16"
+    },
+    {
+      "filename" : "DALL·E 2023-12-30 10-5.31.19 - A sleek and minimalistic logo for an AI voice assistant, incorporating the concept of an AI brain. The design should be modern with a touch of color,  1.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "16x16"
+    },
+    {
+      "filename" : "DALL·E 2023-12-30 10-5.31.19 - A sleek and minimalistic logo for an AI voice assistant, incorporating the concept of an AI brain. The design should be modern with a touch of color, .png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "32x32"
+    },
+    {
+      "filename" : "DALL·E 2023-12-30 10-4.31.19 - A sleek and minimalistic logo for an AI voice assistant, incorporating the concept of an AI brain. The design should be modern with a touch of color, .png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "32x32"
+    },
+    {
+      "filename" : "DALL·E 2023-12-30 10-3.31.19 - A sleek and minimalistic logo for an AI voice assistant, incorporating the concept of an AI brain. The design should be modern with a touch of color, .png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "128x128"
+    },
+    {
+      "filename" : "DALL·E 2023-12-30 10-2.31.19 - A sleek and minimalistic logo for an AI voice assistant, incorporating the concept of an AI brain. The design should be modern with a touch of color,  1.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "128x128"
+    },
+    {
+      "filename" : "DALL·E 2023-12-30 10-2.31.19 - A sleek and minimalistic logo for an AI voice assistant, incorporating the concept of an AI brain. The design should be modern with a touch of color, .png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "256x256"
+    },
+    {
+      "filename" : "DALL·E 2023-12-30 10-1.31.19 - A sleek and minimalistic logo for an AI voice assistant, incorporating the concept of an AI brain. The design should be modern with a touch of color,  1.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "256x256"
+    },
+    {
+      "filename" : "DALL·E 2023-12-30 10-1.31.19 - A sleek and minimalistic logo for an AI voice assistant, incorporating the concept of an AI brain. The design should be modern with a touch of color, .png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "512x512"
+    },
+    {
+      "filename" : "DALL·E 2023-12-30 10.31.19 - A sleek and minimalistic logo for an AI voice assistant, incorporating the concept of an AI brain. The design should be modern with a touch of color, .png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "512x512"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
