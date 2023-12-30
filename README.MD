@@ -16,10 +16,6 @@ AI Voice Assistant App built with SwiftUI and OpenAI APIs (GPT4 Chat Completion,
 - visionOS 1.0
 - [OpenAI API Key](https://platform.openai.com)
 
-## YouTube Tutorial
-
-Check the full [YouTube Video Tutotrial](https://youtu.be/2Lpb9k9XeAA)
-
 ## License
 
 VoiceGPT is available under the WTFPL license. See the LICENSE file for more info.
