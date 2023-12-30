@@ -22,4 +22,4 @@ Check the full [YouTube Video Tutotrial](https://youtu.be/2Lpb9k9XeAA)
 
 ## License
 
-VoiceGPT is available under the MIT license. See the LICENSE file for more info.
+VoiceGPT is available under the WTFPL license. See the LICENSE file for more info.
